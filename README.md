@@ -5,6 +5,6 @@ Individual study project I worked on for school.  I worked through tutorials tha
 
 Referenced tutorials:
 
-[designsbyzephyr�s Java 2D Game Engine Development](http://www.youtube.com/playlist?list=PL8CAB66181A502179) 
+[designsbyzephyr's Java 2D Game Engine Development](http://www.youtube.com/playlist?list=PL8CAB66181A502179) 
 
-[TheChernoProject�s Game Programming](http://www.youtube.com/playlist?list=PLlrATfBNZ98eOOCk2fOFg7Qg5yoQfFAdf)
+[TheChernoProject's Game Programming](http://www.youtube.com/playlist?list=PLlrATfBNZ98eOOCk2fOFg7Qg5yoQfFAdf)
